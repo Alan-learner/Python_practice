@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7a3f5ba-d337-43f5-933c-b01051d2f0e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1y1G3nIqPCYFzY9eWiodlQ4SXtl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Python/Python39/stack_practice.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.ins_libs">
+    <configuration name="Class_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="common_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cal_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="common_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cal_num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ins_libs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="common_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ins_libs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stack_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="common_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../../Python/Python39" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../../Python/Python39/stack_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ins_libs" />
+        <item itemvalue="Python.cal_num" />
+        <item itemvalue="Python.stack_practice" />
+        <item itemvalue="Python.Class_practice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7a3f5ba-d337-43f5-933c-b01051d2f0e9" name="Default Changelist" comment="" />
+      <created>1631411500052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631411500052</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="212" key="FileChooserDialogImpl" timestamp="1632325529588">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="398" y="212" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1632325529588" />
+    <state width="837" height="281" key="GridCell.Tab.0.bottom" timestamp="1633274342464">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="837" height="281" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1633274342464" />
+    <state width="837" height="281" key="GridCell.Tab.0.center" timestamp="1633274342464">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="837" height="281" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1633274342464" />
+    <state width="837" height="281" key="GridCell.Tab.0.left" timestamp="1633274342464">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="837" height="281" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1633274342464" />
+    <state width="837" height="281" key="GridCell.Tab.0.right" timestamp="1633274342464">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="837" height="281" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1633274342464" />
+    <state width="1224" height="201" key="GridCell.Tab.1.bottom" timestamp="1632325736686">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1224" height="201" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1632325736686" />
+    <state width="1224" height="201" key="GridCell.Tab.1.center" timestamp="1632325736685">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1224" height="201" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1632325736685" />
+    <state width="1224" height="201" key="GridCell.Tab.1.left" timestamp="1632325736685">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1224" height="201" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1632325736685" />
+    <state width="1224" height="201" key="GridCell.Tab.1.right" timestamp="1632325736685">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1224" height="201" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1632325736685" />
+    <state x="142" y="5" key="SettingsEditor" timestamp="1631880681426">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1631880681426" />
+    <state x="270" y="41" key="search.everywhere.popup" timestamp="1631411704046">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="270" y="41" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1631411704046" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../../../Python/Python39/stack_practice.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

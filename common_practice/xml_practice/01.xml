@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <user>ALan</user>
+    <msg>如果45 &lt; 43,请求证</msg>
+    <man>
+            <name>小李</name>
+            <age>25</age>
+    </man>
+    <man>
+            <name age="26">小张</name>
+    </man>
+    <msg>
+        <![CDATA[算数符号集合《》《》、<><>><]]>
+    </msg>>
+
+</root>
+<!--此处为注释-->
