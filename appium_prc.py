@@ -1,0 +1,1 @@
+package: name='com.ss.android.ugc.aweme' versionCode='190101' versionName='19.1.0'

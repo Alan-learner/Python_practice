@@ -21,7 +21,7 @@ class LoginPage(BasePage):
         self.input(self.pwd, password)
         self.click(self.button)
         self.wait(10)
-        self.quit()
+        # self.quit()
 
 
 
