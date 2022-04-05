@@ -1,0 +1,7 @@
+app_cfg:
+  platformName: Android
+  platformVersion: 7.1.2
+  deviceName: Xiaomi 9
+  appPackage: com.tal.kaoyan
+  appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+  noReset: True
